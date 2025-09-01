@@ -1,0 +1,21 @@
+{
+  "name": "USDTg Token List",
+  "logoURI": "https://ipfs.io/ipfs/QmPqM7pA2Q7ZQ8ZL4zLJyq7Sn5oEcK1wgLG3y9ZCtXtUdT",
+  "keywords": ["usdtg", "stablecoin", "tron", "tetherground"],
+  "timestamp": "2025-09-01T17:00:00+03:00",
+  "tokens": [
+    {
+      "chainId": 728126428, 
+      "address": "TEpGiLGNB7W9W26LbvtU9wdukrLgLZwFgr",
+      "name": "TetherGround USD",
+      "symbol": "USDTg",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmPqM7pA2Q7ZQ8ZL4zLJyq7Sn5oEcK1wgLG3y9ZCtXtUdT",
+      "tags": ["stablecoin"],
+      "extensions": {
+        "website": "https://www.usdtg.net",
+        "explorer": "https://tronscan.org/#/token20/TEpGiLGNB7W9W26LbvtU9wdukrLgLZwFgr"
+      }
+    }
+  ]
+}
